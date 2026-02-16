@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SuziMoore//Campaign//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:officehours-20260310@suzimoore
+DTSTAMP:20260216T000000Z
+DTSTART:20260310T170000Z
+DTEND:20260310T183000Z
+SUMMARY:Open Office Hours — Mint Law Firm HQ & Zoom
+LOCATION:Mint Law Firm HQ & Online (Zoom)
+DESCRIPTION:Open Office Hours — Details: https://suzimoore1472-svg.github.io/Campaign/events.html
+URL:https://suzimoore1472-svg.github.io/Campaign/events.html
+END:VEVENT
+END:VCALENDAR

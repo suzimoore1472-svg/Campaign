@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SuziMoore//Campaign//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:listening-20260421@suzimoore
+DTSTAMP:20260216T000000Z
+DTSTART:20260421T160000Z
+DTEND:20260421T173000Z
+SUMMARY:Listening Session — Mint Law Firm HQ & Zoom
+LOCATION:Mint Law Firm HQ & Online (Zoom)
+DESCRIPTION:Listening Session — Details: https://suzimoore1472-svg.github.io/Campaign/events.html
+URL:https://suzimoore1472-svg.github.io/Campaign/events.html
+END:VEVENT
+END:VCALENDAR

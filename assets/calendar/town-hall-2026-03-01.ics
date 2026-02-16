@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SuziMoore//Campaign//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:townhall-20260301@suzimoore
+DTSTAMP:20260216T000000Z
+DTSTART:20260301T170000Z
+DTEND:20260301T183000Z
+SUMMARY:Community Town Hall — Mint Law Firm HQ & Zoom
+LOCATION:Mint Law Firm HQ & Online (Zoom)
+DESCRIPTION:Community Town Hall — Details: https://suzimoore1472-svg.github.io/Campaign/events.html
+URL:https://suzimoore1472-svg.github.io/Campaign/events.html
+END:VEVENT
+END:VCALENDAR
